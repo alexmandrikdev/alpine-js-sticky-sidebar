@@ -1,0 +1,15 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "noSemi": true,
+  "printWidth": 160,
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "semicolons": true,
+  "singleQuote": false,
+  "tabs": false,
+  "tabWidth": 4,
+  "trailingComma": "all",
+  "vueIndentScriptAndStyle": true
+}
