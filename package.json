@@ -1,20 +1,20 @@
 {
-  "name": "@mndalex/alpine-js-plugin-blueprint",
-  "version": "1.0.0",
-  "description": "Super alpine.js plugin",
-  "main": "dist/plugin.cjs.js",
-  "module": "dist/plugin.esm.js",
-  "unpkg": "dist/plugin.min.js",
-  "keywords": [],
-  "author": "Alex Andras Mandrik",
-  "license": "MIT",
-  "dependencies": {
-    "esbuild": "^0.12.22"
-  },
-  "scripts": {
-    "build": "node scripts/build.js"
-  },
-  "devDependencies": {
-    "prettier": "2.5.1"
-  }
+    "name": "@mndalex/alpine-js-sticky-sidebar",
+    "version": "1.0.0",
+    "description": "Sticky sidebar with Alpine.js",
+    "main": "dist/plugin.cjs.js",
+    "module": "dist/plugin.esm.js",
+    "unpkg": "dist/plugin.min.js",
+    "keywords": [],
+    "author": "Alex Andras Mandrik",
+    "license": "MIT",
+    "dependencies": {
+        "esbuild": "^0.12.22"
+    },
+    "scripts": {
+        "build": "node scripts/build.js"
+    },
+    "devDependencies": {
+        "prettier": "2.5.1"
+    }
 }
